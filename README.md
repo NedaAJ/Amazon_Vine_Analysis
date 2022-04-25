@@ -1,4 +1,6 @@
 # Amazon_Vine_Analysis
+You can find the Analysis file here: [Amazon_Reviews_ETL.ipynb](https://github.com/NedaAJ/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb) | [VineReviews_Analysis.ipynb](https://github.com/NedaAJ/Amazon_Vine_Analysis/blob/main/VineReviews_Analysis.ipynb)
+
 ## Analysis Overview
 This project examines the Amazon Vine service to see if there is a bias favouring positive Vine member reviews.
 PySpark is used to extract the dataset, convert the data, connect to an AWS RDS instance, load the changed data into pgAdmin, and calculate various metrics in the analysis.
